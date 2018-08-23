@@ -7,10 +7,11 @@
 ![mvp-logo](images/mvp_blue_avatar.png)
 @snapend
 
-@snap[north-east largeimage]
+@snap[north-east medimage]
 ![dbatools-thor](images/dbatools_thor.png)
 @snapend
 
-@snap[south-west smallimage]
+@snap[south-west medimage
+image]
 ![pythian-logo](images/pythian_black.png)
 @snapend
