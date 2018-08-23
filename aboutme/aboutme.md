@@ -12,7 +12,6 @@
 ![dbatools-thor](images/dbatools_thor.png)
 @snapend
 
-@snap[south-west smallimage
-image]
+@snap[south-west smallimage]
 ![pythian-logo](images/pythian_black.png)
 @snapend
