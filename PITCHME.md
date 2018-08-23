@@ -3,7 +3,7 @@
 Note:
 - Some notes to see
 
----?image=images/MVP_Avatar_Blue.png&size=25% 25%&color=ligtgray
+---?image=images/MVP_Avatar_Blue.png&size=25% 25%&color=lightgray
 ### Testing 1 2 3
 
 Note:
