@@ -11,3 +11,7 @@
   border: 0;
   box-shadow: none;
 }
+
+.footerText p {
+  font-size: 14px;
+}
