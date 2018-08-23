@@ -14,7 +14,7 @@
 @snapend
 
 @snap[south-east]
-#### Twitter: [@wsmelton](https://twitter.com/wsmelton)
-#### SqlCommunity: @wsmelton
-#### PowerShell Slack: @wsmelton
+Twitter: [@wsmelton](https://twitter.com/wsmelton)
+SqlCommunity: @wsmelton
+PowerShell Slack: @wsmelton
 @snapend
