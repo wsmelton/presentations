@@ -1,4 +1,4 @@
-@transition[fade]
+@transition[none]
 ### Shawn Melton
 
 @ul
