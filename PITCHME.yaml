@@ -1,1 +1,2 @@
 theme : beige
+theme-override: styles/custom.css
