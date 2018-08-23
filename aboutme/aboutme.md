@@ -7,7 +7,7 @@
 ![mvp-logo](images/mvp_blue_avatar.png)
 @snapend
 
-@snap[north-east sidebarM]
+@snap[north-east sidebarS]
 ![dbatools-thor](images/dbatools_thor.png)
 @snapend
 
