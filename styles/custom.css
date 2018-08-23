@@ -1,16 +1,13 @@
 .smallimage img {
     width: 25%;
-    border: 0;
-    box-shadow: none;
-  }
+}
 .medimage img {
     width: 50%;
-    border: 0;
-    box-shadow: none;
-  }
-
+}
 .largeimage img {
     width: 75%;
-    border: 0;
-    box-shadow: none;
-  }
+}
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
