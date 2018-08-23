@@ -3,8 +3,8 @@
 
 @ul
 - Twitter: [@wsmelton](https://twitter.com/wsmelton)
-- @color[blue](SqlCommunity Slack): @wsmelton
-- @color[red](PowerShell Slack): @wsmelton
+- @color[blue](@size[12px](SqlCommunity Slack): @wsmelton
+- @color[navy](PowerShell Slack): @wsmelton
 @ulend
 
 @snap[north-west medimage]
