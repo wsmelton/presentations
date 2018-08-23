@@ -3,7 +3,7 @@
 Note:
 - Some notes to see
 
----?image=images/MVP_Avatar_Blue.png&position=bottom&size=2% 50px
+---?image=images/MVP_Avatar_Blue.png&position=bottom,left&size=15% 50px
 ### Testing 1 2 3
 
 Note:
