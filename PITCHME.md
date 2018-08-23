@@ -1,10 +1,1 @@
-### This is a test
-
-Note:
-- Some notes to see
-
----?image=images/aboutme_logo.png&position=left&size=auto
-### Testing 1 2 3
-
-Note:
-- Offers ability to see notes in speaker mode
+---?include=aboutme.md
