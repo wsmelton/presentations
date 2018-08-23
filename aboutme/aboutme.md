@@ -3,7 +3,7 @@
 ##### [@wsmelton](https://twitter.com/wsmelton)
 ##### [@LinkedIn](https://linkedin.com/wshawnmelton)
 
-@snap[north-west medimage]
+@snap[north-west largeimage]
 ![mvp-logo](images/mvp_blue_avatar.png)
 @snapend
 
