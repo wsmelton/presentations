@@ -2,7 +2,6 @@
 ### Shawn Melton
 @ul
 - Twitter: [@wsmelton](https://twitter.com/wsmelton)
-- LinkedIn: [@wshawnmelton](https://linkedin.com/wshawnmelton)
 @ulend
 
 
@@ -10,7 +9,7 @@
 ![mvp-logo](images/mvp_blue_avatar.png)
 @snapend
 
-@snap[north-east medimage]
+@snap[north-east smallimage]
 ![dbatools-thor](images/dbatools_thor.png)
 @snapend
 
