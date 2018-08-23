@@ -1,15 +1,15 @@
-.sidebars img {
+.smallimage img {
     width: 25%;
     border: 0;
     box-shadow: none;
   }
-.sidebarm img {
+.medimage img {
     width: 50%;
     border: 0;
     box-shadow: none;
   }
 
-.sidebarl img {
+.largeimage img {
     width: 75%;
     border: 0;
     box-shadow: none;
