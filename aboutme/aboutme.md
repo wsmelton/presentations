@@ -1,7 +1,7 @@
 @transition[fade]
 ### Shawn Melton
-##### Twitter: [@wsmelton](https://twitter.com/wsmelton)
-##### LinkedIn: [@wshawnmelton](https://linkedin.com/wshawnmelton)
+- Twitter: [@wsmelton](https://twitter.com/wsmelton)
+- LinkedIn: [@wshawnmelton](https://linkedin.com/wshawnmelton)
 
 @snap[north-west medimage]
 ![mvp-logo](images/mvp_blue_avatar.png)
