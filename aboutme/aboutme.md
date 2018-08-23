@@ -3,7 +3,7 @@
 
 @ul
 - Twitter: [@wsmelton](https://twitter.com/wsmelton)
-- @color[blue](@size[12px](SqlCommunity Slack)): @wsmelton
+- @color[blue](SqlCommunity Slack): @wsmelton
 - @color[navy](PowerShell Slack): @wsmelton
 @ulend
 
@@ -15,6 +15,6 @@
 ![dbatools-thor](images/dbatools_thor.png)
 @snapend
 
-@snap[south-west smallimage]
+@snap[south medimage]
 ![pythian-logo](images/pythian_black.png)
 @snapend
