@@ -3,7 +3,7 @@
 Note:
 - Some notes to see
 
----?image=images/aboutme_logo.png&position=left&size=auto 25%
+---?image=images/aboutme_logo.png&position=left&size=auto
 ### Testing 1 2 3
 
 Note:
