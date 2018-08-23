@@ -1,7 +1,5 @@
 @transition[fade]
 ### Shawn Melton
-#### Twitter: [@wsmelton](https://twitter.com/wsmelton)
-
 
 @snap[north-west medimage]
 ![mvp-logo](images/mvp_blue_avatar.png)
@@ -13,4 +11,10 @@
 
 @snap[south-west smallimage]
 ![pythian-logo](images/pythian_black.png)
+@snapend
+
+@snap[south-east]
+#### Twitter: [@wsmelton](https://twitter.com/wsmelton)
+#### SqlCommunity: @wsmelton
+#### PowerShell Slack: @wsmelton
 @snapend
