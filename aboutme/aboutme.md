@@ -1,9 +1,7 @@
 @transition[fade]
 ### Shawn Melton
-@ul
-
-- Twitter: [@wsmelton](https://twitter.com/wsmelton)
-- LinkedIn: [@wshawnmelton](https://linkedin.com/wshawnmelton)
+##### Twitter: [@wsmelton](https://twitter.com/wsmelton)
+##### LinkedIn: [@wshawnmelton](https://linkedin.com/wshawnmelton)
 
 @ulend
 
