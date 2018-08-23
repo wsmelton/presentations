@@ -1,6 +1,7 @@
 @transition[none]
 ### Shawn Melton
 
+@transition[none]
 @ul
 - Twitter: [@wsmelton](https://twitter.com/wsmelton)
 - @color[blue](SqlCommunity Slack): @wsmelton
