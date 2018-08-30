@@ -15,6 +15,8 @@
 ![insider](images/vscode/insiderbuildicon.png)
 
 Note:
+- VS Code is built on Electron framework (based on NodeJs)
+    - Allows for embedding and modifying it for other uses (i.e. Azure Cloud Shell, SQL Operations Studio)
 - Stable is released on a monthly cadence
 - Insider is released anywhere from every few hours, days, or weeks
 - Insider you won't see the version number change much.
