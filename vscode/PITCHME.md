@@ -7,16 +7,13 @@
 ---?include=aboutme/aboutme.md
 
 ---
-@transition[none none]
 ## Builds
 
-@ul
 - Stable
 ![stable](images/vscode/stablebuildicon.png)
 
 - Insider
 ![insider](images/vscode/insiderbuildicon.png)
-@ulend
 
 Note:
 - Stable is released on a monthly cadence
