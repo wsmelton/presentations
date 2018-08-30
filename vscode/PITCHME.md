@@ -4,15 +4,17 @@
 ---?include=aboutme/aboutme.md
 
 ---
+@snap[north]
 ## Builds
-@snap[west]
-@ul
-- Stable: ![stable](images/vscode/stablebuildicon.png)
-
-- Insider: ![insider](images/vscode/insiderbuildicon.png)
-
-@ulend
 @snapend
+
+@ul
+- Stable
+![stable](images/vscode/stablebuildicon.png)
+
+- Insider
+![insider](images/vscode/insiderbuildicon.png)
+@ulend
 
 ---
 
