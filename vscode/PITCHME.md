@@ -5,7 +5,7 @@
 
 ---
 @snap[north]
-## Builds
+@size[large](Builds)
 @snapend
 
 @ul
