@@ -52,7 +52,7 @@ Note:
 @size[small]([more details](https://code.visualstudio.com/docs/editor/extension-gallery))
 @snapend
 
-- Marketplace: [https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
+- Marketplace @size[small]([https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode))
 - Extensions Activity Bar (within VS Code)
 - VSIX file (via Activity Bar)
     - Rolling back an extension
@@ -62,6 +62,9 @@ Note:
 ## Settings
 @snap[north-east]
 @size[small]([more details](https://code.visualstudio.com/docs/getstarted/settings))
+@snapend
+
+New UI is default now as of 1.27.0
 
 - User Settings
 - Workspace Settings (override user settings)
