@@ -15,8 +15,8 @@
 @snapend
 
 @snap[east]
-[stable](images/vscode/stablebuildicon.png)
-[insider](insiderbuildicon.png)
+![stable](images/vscode/stablebuildicon.png)
+![insider](insiderbuildicon.png)
 @snapend
 ---
 
