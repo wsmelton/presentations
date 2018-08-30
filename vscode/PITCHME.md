@@ -1,6 +1,8 @@
 ## Visual Studio Code
 ### Getting Started
-
+@snap[south]
+@size[small](PSPowerHour - August 30, 2018)
+@snapend
 ---?include=aboutme/aboutme.md
 
 ---
