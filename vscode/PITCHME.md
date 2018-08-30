@@ -7,8 +7,7 @@
 ## Builds
 
 @ul
-- Stable
-![stable](images/vscode/stablebuildicon.png)
+- Stable - ![stable](images/vscode/stablebuildicon.png)
 
 - Insider
 ![insider](images/vscode/insiderbuildicon.png)
@@ -18,11 +17,14 @@
 
 ## Interface Overview
 
----?image=images/vscode/interface_overview.png&size=contain
-
 @snap[north-east]
 @size[small]([more details](https://code.visualstudio.com/docs/getstarted/userinterface))
 @snapend
+---?image=images/vscode/interface_overview.png&size=contain
 Note:
 - Help > Welcome > Learn > Interface Overview
+- Activity Bar - growing as more extensions support new UI options
+- Editor Groups - Big feature is grid layout, snap an editor to right, left, up or down
+- Panel - offers view of what is going on from output logs
+- Status Bar - varies on data displayed based on what extensions you are using
 ---
