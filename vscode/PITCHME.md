@@ -97,4 +97,5 @@ Note:
 - [VS Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 - [Dark Theme: Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - (color-blind friendly, easy on eyes)
 
-@size[small](There extensions for Git such as GitBlame or GitLens if you are heavily involved in projects.)
+---
+@fa[hourglass-end fa-3x]
