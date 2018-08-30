@@ -23,6 +23,7 @@ Note:
 - Insider is released anywhere from every few hours, days, or weeks
 - Insider you won't see the version number change much.
     - Based on the commit and date value
+- Preview of a non-admin installer, only for Insider Build right now
 ---
 @transition[none]
 ## Interface Overview
