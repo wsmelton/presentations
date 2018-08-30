@@ -7,12 +7,18 @@
 ## Builds
 
 @ul
-- Stable - ![stable](images/vscode/stablebuildicon.png)
+- Stable
+![stable](images/vscode/stablebuildicon.png)
 
 - Insider
 ![insider](images/vscode/insiderbuildicon.png)
 @ulend
 
+Note:
+- Stable is released on a monthly cadence
+- Insider is released anywhere from every few hours, days, or weeks
+- Insider you won't see the version number change much.
+    - Based on the commit and date value
 ---
 
 ## Interface Overview
