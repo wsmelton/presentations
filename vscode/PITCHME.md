@@ -7,11 +7,11 @@
 
 ---
 
-### Interface Overview
+#### Interface Overview
 
 ![UIOverview](images/vscode/interface_overview.png)
 
-@snap[south]
-[more details](https://code.visualstudio.com/docs/getstarted/userinterface)
+@snap[north-east]
+@size(small)[more details](https://code.visualstudio.com/docs/getstarted/userinterface)
 @snapend
 ---
