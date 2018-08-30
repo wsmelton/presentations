@@ -14,6 +14,8 @@
 - Insider
 ![insider](images/vscode/insiderbuildicon.png)
 
+- Non-Admin Installer [here](https://code.visualstudio.com/updates/v1_25#_user-setup-for-windows)
+
 Note:
 - VS Code is built on Electron framework (based on NodeJs)
     - Allows for embedding and modifying it for other uses (i.e. Azure Cloud Shell, SQL Operations Studio)
