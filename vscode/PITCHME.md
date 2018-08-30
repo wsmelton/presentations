@@ -64,7 +64,7 @@ Note:
 @size[small]([more details](https://code.visualstudio.com/docs/getstarted/settings))
 @snapend
 
-New UI is default now as of 1.27.0
+New UI default as of 1.27.0
 
 - User Settings
 - Workspace Settings (override user settings)
@@ -77,6 +77,6 @@ Note:
 ## Command Palette
 
 - `CTRL + SHIFT, P` shortcut
-- View > Command Palette
+- View @fa[angle-right] Command Palette
 
 ![git example](/images/vscode/commandpalette_git.png)
