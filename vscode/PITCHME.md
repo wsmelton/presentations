@@ -83,7 +83,16 @@ Note:
 ![git example](/images/vscode/commandpalette_git.png)
 
 ---
-## Extensions for PowerShell Development
-### At least what I use
+## PowerShell Development
+### Extensions Commonly Used
 
 @size[x-small](`code-insiders --installed-extensions`)
+
+- [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
+- [VS Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+- [Dark Theme: Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - (color-blind friendly, easy on eyes)
+
+@size[small](There extensions for Git such as GitBlame or GitLens if you are heavily involved in projects.)
