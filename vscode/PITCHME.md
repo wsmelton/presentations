@@ -26,25 +26,26 @@ Note:
 @snap[north-east]
 @size[small]([more details](https://code.visualstudio.com/docs/getstarted/userinterface))
 @snapend
+
 ---?image=images/vscode/interface_overview.png&size=contain
+
 Note:
 - Help > Welcome > Learn > Interface Overview
 - Activity Bar - growing as more extensions support new UI options
 - Editor Groups - Big feature is grid layout, snap an editor to right, left, up or down
 - Panel - offers view of what is going on from output logs
 - Status Bar - varies on data displayed based on what extensions you are using
+
 ---
-@transition[none none]
 ## Zoom Zoom
 @snap[north-east]
 @size[small]([more details](https://code.visualstudio.com/docs/editor/accessibility))
 @snapend
 
-- Zoom environment (including editor)
-- Zoom editor text only
+- Environment (including editor)
+- Editor text (only)
 
 ---
-@transition[none none]
 ## Extensions
 
 @snap[north-east]
@@ -54,16 +55,25 @@ Note:
 - Marketplace: [https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
 - Extensions Activity Bar (within VS Code)
 - VSIX file (via Activity Bar)
+    - Rolling back an extension
+    - Test pre-release extensions
 
 ---
-@transition[none none]
 ## Settings
+@snap[north-east]
+@size[small]([more details](https://code.visualstudio.com/docs/getstarted/settings))
 
 - User Settings
-- Workspace Settings
-- Presentation
-    - Workspace settings
-    - Set font, theme, extensions disabled/enabled, zoom level
+- Workspace Settings (override user settings)
 
 Note:
 - Settings from user and workspace at times will overwrite each other
+- Presenting? Use workspace settings for the ideal environment setup for display (i.e. zoom level, color, text size/font, disable extensions)
+
+---
+## Command Palette
+
+- `CTRL + SHIFT, P` shortcut
+- View > Command Palette
+
+![git example](/images/vscode/commandpalette_git.png)
