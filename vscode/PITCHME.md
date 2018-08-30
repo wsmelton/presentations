@@ -57,6 +57,7 @@ Note:
 - VSIX file (via Activity Bar)
     - Rolling back an extension
     - Test pre-release extensions
+- Command line option (`code-insiders --install-extension author.extension-name`) [example one-liner](https://twitter.com/wsmelton/status/1025029106612744192)
 
 ---
 ## Settings
@@ -77,6 +78,12 @@ Note:
 ## Command Palette
 
 - `CTRL` @fa[plus] `SHIFT`, `P` shortcut
-- View @fa[angle-right] Command Palette
+- `View` @fa[angle-right] `Command Palette`
 
 ![git example](/images/vscode/commandpalette_git.png)
+
+---
+## Extensions for PowerShell Development
+### At least what I use
+
+@size[x-small](`code-insiders --installed-extensions`)
