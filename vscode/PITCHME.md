@@ -77,8 +77,8 @@ Note:
 ---
 ## Command Palette
 
-- `CTRL` @fa[plus] `SHIFT`, `P` shortcut
-- `View` @fa[angle-right] `Command Palette`
+- CTRL @fa[plus] SHIFT, P
+- View @fa[angle-right] Command Palette
 
 ![git example](/images/vscode/commandpalette_git.png)
 
@@ -86,7 +86,7 @@ Note:
 ## Extensions
 ### PowerShell Development
 
-@size[x-small](`code-insiders --installed-extensions`)
+@size[small](`code-insiders --installed-extensions`)
 
 ---
 
