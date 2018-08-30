@@ -7,15 +7,13 @@
 ## Builds
 @snap[west]
 @ul
-- Stable
-- Insider
+- Stable: ![stable](images/vscode/stablebuildicon.png)
+
+- Insider: ![insider](images/vscode/insiderbuildicon.png)
+
 @ulend
 @snapend
 
-@snap[east]
-![stable](images/vscode/stablebuildicon.png)
-![insider](images/vscode/insiderbuildicon.png)
-@snapend
 ---
 
 ## Interface Overview
