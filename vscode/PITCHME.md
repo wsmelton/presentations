@@ -95,7 +95,7 @@ Note:
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [VS Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-- [Dark Theme: Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) @size[x-small]((color-blind friendly, easy on eyes))
+- [Dark Theme: Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) @size[x-small](color-blind friendly, easy on eyes)
 
 ---
 @fa[hourglass-end fa-3x]
