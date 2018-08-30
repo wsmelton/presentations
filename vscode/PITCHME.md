@@ -4,8 +4,6 @@
 ---?include=aboutme/aboutme.md
 
 ---
-@transition[none]
-
 ## Builds
 @snap[west]
 @ul
@@ -16,7 +14,7 @@
 
 @snap[east]
 ![stable](images/vscode/stablebuildicon.png)
-![insider](insiderbuildicon.png)
+![insider](images/vscode/insiderbuildicon.png)
 @snapend
 ---
 
