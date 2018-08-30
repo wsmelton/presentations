@@ -105,7 +105,7 @@ Note:
     - Released today that you can have read-only access for guest (built for mentoring or online presentations)
 
 ---
-## PowerShell Extension
+### PowerShell Extension
 
 - PowerShellEditorServices [PSES] ([GitHub](https://github.com/PowerShell/PowerShellEditorServices))
 - Integrated Terminal vs Terminal
