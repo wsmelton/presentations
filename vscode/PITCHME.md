@@ -76,7 +76,7 @@ Note:
 ---
 ## Command Palette
 
-- `CTRL + SHIFT, P` shortcut
+- `CTRL` @fa[plus] `SHIFT`, `P` shortcut
 - View @fa[angle-right] Command Palette
 
 ![git example](/images/vscode/commandpalette_git.png)
