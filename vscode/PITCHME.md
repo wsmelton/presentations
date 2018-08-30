@@ -110,8 +110,7 @@ Note:
 - Debugging options
 
 Note:
-- PowerShell Editor Services is the meat of the PowerShell extension.
-    - this is what interact with the API in VS Code
+- PowerShell Editor Services is the meat of the PowerShell extension
 - The "terminal" is VS Code's terminal
     - Respect to PowerShell that is the PowerShell.exe session
 - Integrated Terminal is a custom host built by the PSES
