@@ -93,9 +93,14 @@ Note:
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [VS Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-- [Dark Theme: Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) @size[x-small](color-blind friendly, easy on eyes)
+
+Note:
+- Basic list of extensions
+- Code Spell Checker respects camel-casing and is available in other language extensions as well
+- Settings Sync is a must if you use multiple devices (i.e. work and home office), can use private or public gist to store data
+- VS Live Share is still in preview
+    - Released today that you can have read-only access for guest (built for mentoring or online presentations)
 
 ---
 @fa[hourglass-end fa-3x]
