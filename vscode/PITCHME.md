@@ -38,3 +38,12 @@ Note:
 - Panel - offers view of what is going on from output logs
 - Status Bar - varies on data displayed based on what extensions you are using
 ---
+@transition[none none]
+## Zoom Zoom
+@snap[north-east]
+@size[small]([more details](https://code.visualstudio.com/docs/editor/accessibility))
+@snapend
+
+@ul
+- Zoom environment (including editor)
+- Zoom editor text only
