@@ -13,6 +13,11 @@
 - Insider
 @ulend
 @snapend
+
+@snap[east]
+[stable](images/vscode/stablebuildicon.png)
+[insider](insiderbuildicon.png)
+@snapend
 ---
 
 ## Interface Overview
