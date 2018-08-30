@@ -4,13 +4,17 @@
 ---?include=aboutme/aboutme.md
 
 ---
-## Editions
+## Builds
 
+@ul
+- Stable
+- Insider
+@ulend
 ---
 
 #### Interface Overview
 
-![UIOverview](images/vscode/interface_overview.png)
+---?image=images/vscode/interface_overview.png&size=contain
 
 @snap[north-east]
 @size[small]([more details](https://code.visualstudio.com/docs/getstarted/userinterface))
