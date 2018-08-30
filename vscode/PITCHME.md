@@ -1,3 +1,4 @@
+@transition[none]
 ## Visual Studio Code
 ### Getting Started
 @snap[south]
@@ -6,7 +7,7 @@
 ---?include=aboutme/aboutme.md
 
 ---
-@transition[none]
+@transition[none none]
 ## Builds
 
 @ul
