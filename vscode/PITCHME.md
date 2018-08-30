@@ -4,6 +4,7 @@
 ---?include=aboutme/aboutme.md
 
 ---
+@transition[none]
 ## Builds
 
 @ul
@@ -20,7 +21,7 @@ Note:
 - Insider you won't see the version number change much.
     - Based on the commit and date value
 ---
-
+@transition[none]
 ## Interface Overview
 
 @snap[north-east]
