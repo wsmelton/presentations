@@ -4,15 +4,18 @@
 ---?include=aboutme/aboutme.md
 
 ---
-## Builds
+@transition[none]
 
+## Builds
+@snap[west]
 @ul
 - Stable
 - Insider
 @ulend
+@snapend
 ---
 
-#### Interface Overview
+## Interface Overview
 
 ---?image=images/vscode/interface_overview.png&size=contain
 
