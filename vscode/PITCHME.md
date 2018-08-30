@@ -12,6 +12,6 @@
 ![UIOverview](images/vscode/interface_overview.png)
 
 @snap[north-east]
-@size(small)(more details](https://code.visualstudio.com/docs/getstarted/userinterface))
+@size(small)([more details](https://code.visualstudio.com/docs/getstarted/userinterface))
 @snapend
 ---
