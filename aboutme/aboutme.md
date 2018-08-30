@@ -1,11 +1,9 @@
 @transition[none]
 ### Shawn Melton
 
-@ul
 - Twitter: [@wsmelton](https://twitter.com/wsmelton)
 - @color[blue](SqlCommunity Slack): @wsmelton
 - @color[navy](PowerShell Slack): @wsmelton
-@ulend
 
 @snap[north-west medimage]
 ![mvp-logo](images/mvp_blue_avatar.png)
