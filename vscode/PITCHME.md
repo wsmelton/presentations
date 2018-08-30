@@ -1,4 +1,3 @@
-@transition[none]
 ## Visual Studio Code
 ### Getting Started
 @snap[south]
@@ -41,10 +40,8 @@ Note:
 @size[small]([more details](https://code.visualstudio.com/docs/editor/accessibility))
 @snapend
 
-@ul
 - Zoom environment (including editor)
 - Zoom editor text only
-@ulend
 
 ---
 @transition[none none]
@@ -54,23 +51,19 @@ Note:
 @size[small]([more details](https://code.visualstudio.com/docs/editor/extension-gallery))
 @snapend
 
-@ul
 - Marketplace: [https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
 - Extensions Activity Bar (within VS Code)
 - VSIX file (via Activity Bar)
-@ulend
 
 ---
 @transition[none none]
 ## Settings
 
-@ul
 - User Settings
 - Workspace Settings
 - Presentation
     - Workspace settings
     - Set font, theme, extensions disabled/enabled, zoom level
-@ulend
 
 Note:
 - Settings from user and workspace at times will overwrite each other
