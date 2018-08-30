@@ -1,2 +1,3 @@
+theme-override: styles/custom.css
 theme : sky
 transition : fade
