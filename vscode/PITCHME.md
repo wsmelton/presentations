@@ -83,10 +83,12 @@ Note:
 ![git example](/images/vscode/commandpalette_git.png)
 
 ---
-## PowerShell Development
-### Extensions Commonly Used
+## Extensions
+### PowerShell Development
 
 @size[x-small](`code-insiders --installed-extensions`)
+
+---
 
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
