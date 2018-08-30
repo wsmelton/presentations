@@ -4,9 +4,7 @@
 ---?include=aboutme/aboutme.md
 
 ---
-@snap[north]
-@size[large](Builds)
-@snapend
+## Builds
 
 @ul
 - Stable
